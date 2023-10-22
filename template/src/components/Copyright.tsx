@@ -6,11 +6,9 @@ function KhCopyright() {
     return (
       <Typography variant="body2" color="text.secondary" align="center">
         {'© '}
-        <Link color="#000000" href="/">
-          Kh Infinite Possibilities Private Limited
-        </Link>{' '}
-        {new Date().getFullYear()}
-        {'.'}
+        <Link color="#000000" href="https://github.com/vishwakarma-dev">
+          vishwakarma-dev
+        </Link>
       </Typography>
     );
   }
