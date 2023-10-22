@@ -1,0 +1,56 @@
+{
+  "name": "cra-template-vs_redux_typescript",
+  "version": "0.1.2",
+  "author": "@vaibhav_satokar",
+  "type": "module",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "redux",
+    "react-redux"
+  ],
+  "description": "The base Redux, TypeScript template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vishwakarma-dev/vs-react-redux-typescript-boilerplate.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/vishwakarma-dev/vs-react-redux-typescript-boilerplate/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^27.5.2",
+    "@types/node": "^16.18.50",
+    "@types/react": "^18.2.21",
+    "@types/react-dom": "^18.2.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.1.2",
+    "react-router-dom": "^6.16.0",
+    "react-scripts": "5.0.1",
+    "typescript": "^4.9.5",
+    "web-vitals": "^2.1.4"
+
+  },
+  "devDependencies": {
+    "axios": "^1.5.0",
+    "react-router-dom": "^6.16.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.9",
+    "@mui/material": "^5.14.9"
+  }
+}
